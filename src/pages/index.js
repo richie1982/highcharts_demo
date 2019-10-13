@@ -6,7 +6,6 @@ const IndexPage = () => {
 
   return (
     <div>
-      HighChart Demo
       <Graph/>
     </div>
 
