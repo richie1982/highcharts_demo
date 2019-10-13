@@ -57,7 +57,7 @@ const Graph = () => {
     const options = {
         chart: {
             type: 'line',
-            backgroundColor: 'black',
+            backgroundColor: '#2C282D',
             plotBorderColor: 'white',
         },
         title: {
